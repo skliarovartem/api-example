@@ -5,7 +5,11 @@ Start application: 'docker-compose up'
 
 After application is started use 'api-example.postman_collection.json' to import collection to Postman.
 Execute requests in the following sequence:
-POST users - to create new user
-GET users - to get list of users
-POST login - to login
+
+POST users - to create new user,
+
+GET users - to get list of users,
+
+POST login - to login,
+
 GET own profile - to get own profile
